@@ -8,134 +8,136 @@
 	- Rage Uncaged
 		- As Wolverine, land three KOs with a single use of Last Stand - 10
 	- Way of the Butterfly
-        - As Psylocke, contest the mission area for 60 seconds in a single match - 10
+		- As Psylocke, contest the mission area for 60 seconds in a single match - 10
 	- Snack Attack!
-        - As Jeff the Land Shark, swallow four enemies with a single use of It’s Jeff! - 10
+		- As Jeff the Land Shark, swallow four enemies with a single use of It’s Jeff! - 10
 	- Family Ties
-        - As Adam Warlock, forge a soul bond with three allies from the Guardians of the Galaxy - 10
+		- As Adam Warlock, forge a soul bond with three allies from the Guardians of the Galaxy - 10
 	- Aquatic Assault
 		- As Namor, summon Monstro Spawn to land - 10 KOs in a single game - 10
 	- Vengeance for the Milano!
-        - As Star-Lord, land - 10 KOs with assists from the Guardians of the Galaxy - 10
+		- As Star-Lord, land - 10 KOs with assists from the Guardians of the Galaxy - 10
 	- Watch Your Step!
 		- As Peni Parker, blast three enemies with a single use of Arachno-Mine  - 10
 	- Arm Race
-        - As Winter Soldier, land three KOs with a single use of Kraken Impact  - 10
+		- As Winter Soldier, land three KOs with a single use of Kraken Impact  - 10
 	- Divine Justice
-        - As Thor, strike down four enemies with a single use of God of Thunder  - 10
+		- As Thor, strike down four enemies with a single use of God of Thunder  - 10
 	- No More Mutants
-        - As Scarlet Witch, take down Mutant enemies - 10 times  - 10
+		- As Scarlet Witch, take down Mutant enemies - 10 times  - 10
 	- Homo Superior
-        - As Magneto, assist Mutant allies - 10 times  - 10
+		- As Magneto, assist Mutant allies - 10 times  - 10
 	- Spider-Sense Tingling!
-        - As Spider-Man, detect an enemy with Spider-Sense and land a winning counterattack  - 10
+		- As Spider-Man, detect an enemy with Spider-Sense and land a winning counterattack  - 10
 	- Grip of Hunger
-        - As Venom, snare four enemies with a single use of Cellular Corrosion  - 10
+		- As Venom, snare four enemies with a single use of Cellular Corrosion  - 10
 	- Flawless Design
-        - As Iron Man, hit four enemies with a single use of Invincible Pulse Cannon  - 10
+		- As Iron Man, hit four enemies with a single use of Invincible Pulse Cannon  - 10
 	- Deadly Bites
-        - As Black Widow, land three KOs with critical hits in a single match  - 10
+		- As Black Widow, land three KOs with critical hits in a single match  - 10
 	- “Ahhh, those tiny claws!”
-        - As Squirrel Girl, land three KOs with a single use of Unbeatable Squirrel Tsunami  - 10
+		- As Squirrel Girl, land three KOs with a single use of Unbeatable Squirrel Tsunami  - 10
 	- Multiverse Tour
-        - As Luna Snow, complete a match on five maps with different themes  - 10
+		- As Luna Snow, complete a match on five maps with different themes  - 10
 	- Punishment of the Moon
-        - As Moon Knight, hit four enemies with a single use of Hand of Khonshu  - 10
+		- As Moon Knight, hit four enemies with a single use of Hand of Khonshu  - 10
 	- Demon’s Roar
-        - As Magik, land 3 KOs within a single transformation into Darkchild  - 10
+		- As Magik, land 3 KOs within a single transformation into Darkchild  - 10
 	- Vicious Vines
-        - As Groot, imprison four enemies with a single use of Strangling Prison  - 10
+		- As Groot, imprison four enemies with a single use of Strangling Prison  - 10
 	- King of the Dead
-        - As Black Panther, land a 3-player KO streak in the Intergalactic Empire of Wakanda: Hall of Djalia  - 10
+		- As Black Panther, land a 3-player KO streak in the Intergalactic Empire of Wakanda: Hall of Djalia  - 10
 	- Symphony of Light and Dark
-        - As Cloak & Dagger, assist allies in achieving a team wipe  - 10
+		- As Cloak & Dagger, assist allies in achieving a team wipe  - 10
 	- Terror of the Ten Realms
-        - As Hela, land a 3-player KO streak in Yggsgard: Yggdrasill Path  - 10
+		- As Hela, land a 3-player KO streak in Yggsgard: Yggdrasill Path  - 10
 	- Go Get ‘Em, Guardians
-        - As Rocket Raccoon, revive the Guardians of the Galaxy members five times  - 10
+		- As Rocket Raccoon, revive the Guardians of the Galaxy members five times  - 10
 	- Justice for All!
-        - As Captain America, land three KOs with a single use of Freedom Charge  - 10
+		- As Captain America, land three KOs with a single use of Freedom Charge  - 10
 	- West Coast Best Coast
 		- As Hawkeye, partner with the Avengers to land - 10 KOs  - 10
 	- Victory in Bloom
-        - As Mantis, assist allies in achieving a team wipe  - 10
+		- As Mantis, assist allies in achieving a team wipe  - 10
 	- Perilous Portal
-        - As Doctor Strange, land one terrain KO with the Portal  - 10
+		- As Doctor Strange, land one terrain KO with the Portal  - 10
 	- God of Treachery
-        - As Loki, land one KO by stabbing from behind  - 10
+		- As Loki, land one KO by stabbing from behind  - 10
 	- To Me, My X-Men!
-        - As Storm, assist X-Men members - 10 times  - 10
+		- As Storm, assist X-Men members - 10 times  - 10
 	- Smoke Screen
-        - As the Punisher, land three KOs amidst the smoke of Scourge Grenade in a single game  - 10
+		- As the Punisher, land three KOs amidst the smoke of Scourge Grenade in a single game  - 10
 	- Smart Is New Smash
-        - As Bruce Banner, land one KO within three seconds of calming down from the Hulk to Banner  - 10
+		- As Bruce Banner, land one KO within three seconds of calming down from the Hulk to Banner  - 10
 	- Daughters of Liberty
 		- As Invisible Woman, partner with Black Widow to land 1 KO - 5
 	- To Solve Everything
 		- As Mister Fantastic, partner with Iron Man to land 1 KO- 5
 	- The New Agents of Atlas
-        - As Iron Fist, land one KO with an assist from Luna Snow - 5
+		- As Iron Fist, land one KO with an assist from Luna Snow - 5
 	- Learn THIS, bub!
-        - As Wolverine, take down an enemy Magneto - 5
+		- As Wolverine, take down an enemy Magneto - 5
 	- Jian and Katana
-        - As Psylocke, partner with Iron Fist to land one KO - 5
+		- As Psylocke, partner with Iron Fist to land one KO - 5
 	- Wanna Make a Snow Shark?
-        - As Jeff the Land Shark, partner with Luna Snow to land one KO - 5
+		- As Jeff the Land Shark, partner with Luna Snow to land one KO - 5
 	- King in Gold
-        - As Adam Warlock, take down an enemy Venom - 5
+		- As Adam Warlock, take down an enemy Venom - 5
 	- Getting Chummy
-        - As Namor, land one KO with an assist from Jeff the Land Shark - 5
+		- As Namor, land one KO with an assist from Jeff the Land Shark - 5
 	- A Better Plan
-        - As Star-Lord, issue the “Fall Back!” ping three times - 5
+		- As Star-Lord, issue the “Fall Back!” ping three times - 5
 	- Spider-Fighters
-        - As Peni Parker, partner with Spider-Man to land one KO - 5
+		- As Peni Parker, partner with Spider-Man to land one KO - 5
 	- Brothers in Arms
-        - As Winter Soldier, land one KO with an assist from Rocket Raccoon - 5
+		- As Winter Soldier, land one KO with an assist from Rocket Raccoon - 5
 	- The Odinson Returns!
-        - As Thor, take down an enemy Loki - 5
+		- As Thor, take down an enemy Loki - 5
 	- Shattered Reality
-        - As Scarlet Witch, take down an enemy Scarlet Witch - 5
+		- As Scarlet Witch, take down an enemy Scarlet Witch - 5
 	- House of M
-        - As Magneto, partner with Scarlet Witch to land one KO - 5
+		- As Magneto, partner with Scarlet Witch to land one KO - 5
 	- Web, White, and Blue
-        - As Spider-Man, partner with Captain America to land one KO - 5
+		- As Spider-Man, partner with Captain America to land one KO - 5
 	- Broken Bond
-        - As Venom, take down an enemy Spider-Man - 5
+		- As Venom, take down an enemy Spider-Man - 5
 	- Beard Bros!
-        - As Iron Man, partner with Doctor Strange to land one KO - 5
+		- As Iron Man, partner with Doctor Strange to land one KO - 5
 	- Red Reunion
-        - As Black Widow, partner with Winter Soldier to land one KO - 5
+		- As Black Widow, partner with Winter Soldier to land one KO - 5
 	- Stark Fan Club Founder
-        - As Squirrel Girl, partner with Iron Man to land one KO - 5
+		- As Squirrel Girl, partner with Iron Man to land one KO - 5
 	- Frozen Fathoms
-        - As Luna Snow, freeze an enemy Namor with Absolute Zero - 5
+		- As Luna Snow, freeze an enemy Namor with Absolute Zero - 5
 	- Moonlit Hel
-        - As MoonKnight, partner with Hela to land 1 KO - 5
+		- As MoonKnight, partner with Hela to land 1 KO - 5
 	- Master and Apprentice
-        - As Magik, partner with Doctor Strange to land one KO - 5
+		- As Magik, partner with Doctor Strange to land one KO - 5
 	- Tree Talk
-        - As Groot , issue a ping and receive a response from allies - 5
+		- As Groot , issue a ping and receive a response from allies - 5
 	- Clash of Kings
-        - As Black Panther, take down an enemy Namor - 5
+		- As Black Panther, take down an enemy Namor - 5
 	- Street Justice!
-        - As Cloak & Dagger, assist Spider-Man in landing one KO - 5
+		- As Cloak & Dagger, assist Spider-Man in landing one KO - 5
 	- Ragnaroked
-        - As Hela, partner with Loki to take down an enemy Thor - 5
+		- As Hela, partner with Loki to take down an enemy Thor - 5
 	- Rodent Rampage
-        - As Rocket Raccoon, assist Squirrel Girl in landing one KO - 5
+		- As Rocket Raccoon, assist Squirrel Girl in landing one KO - 5
 	- Like Old Times
-        - As Captain America, partner with Winter Soldier to land one KO - 5
+		- As Captain America, partner with Winter Soldier to land one KO - 5
 	- Arrow’s Bite
-        - As Hawkeye, partner with Black Widow to land one KO - 5
+		- As Hawkeye, partner with Black Widow to land one KO - 5
 	- Psychic Sisters
-        - As Mantis, assist Psylocke in landing one KO - 5
+		- As Mantis, assist Psylocke in landing one KO - 5
 	- Inner Strength
-        - As Doctor Strange, knock out the Hulk’s soul with Eye of Agamotto - 5
+		- As Doctor Strange, knock out the Hulk’s soul with Eye of Agamotto - 5
 	- Brotherly Love
-        - As Loki, assist Thor in landing one KO - 5
+		- As Loki, assist Thor in landing one KO - 5
 	- No Love Lost
-        - As Storm, partner with Black Panther to land one KO - 5
+		- As Storm, partner with Black Panther to land one KO - 5
 	- Vengeance & Glory
-        - As the Punish, partner with Captain America to land one KO - 5
+		- As the Punish, partner with Captain America to land one KO - 5
 	- Puny God!
-        - As Monster Hulk, slam an enemy Loki with World Breaker - 5
+		- As Monster Hulk, slam an enemy Loki with World Breaker - 5
+		  id:: 67919960-0aaa-456e-acee-6b8a7e471c5e
+-
