@@ -139,5 +139,3 @@
 		- As the Punish, partner with Captain America to land one KO - 5
 	- Puny God!
 		- As Monster Hulk, slam an enemy Loki with World Breaker - 5
-		  id:: 67919960-0aaa-456e-acee-6b8a7e471c5e
--
